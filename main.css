@@ -29,3 +29,9 @@
     font-size: 15px;
     text-align: center;
 }
+				
+	@font-face {
+				font-family: testFont;*/this sets the font family*/
+				src: url(fonts/helpme-owodb.ttf); */This sets the directory of the font file.*/
+				}
+		
